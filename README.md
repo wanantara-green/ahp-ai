@@ -1,76 +1,105 @@
-=======
-# kobo_mce — Modul Pembobotan AHP untuk Zonasi MCE 
+# Stack AHP-MCE — Pembobotan Zonasi FOLUR Luwu
 
-Pipeline AHP (Analytic Hierarchy Process) untuk pembobotan multi-indikator pada
-analisis MCE-GIS, dirancang untuk panel ahli kecil (n≈15) dengan 5 konstruk dan
-15 indikator. Bobot bersifat deterministik dan auditable; lapisan AI hanya
-membantu validasi dan narasi, tidak pernah mengubah angka bobot.
-
-## Struktur hierarki
+Stack lengkap untuk pengumpulan penilaian ahli (pairwise AHP), perhitungan bobot
+deterministik, dan pelaporan agregat — siap dijalankan dengan satu perintah Docker Compose.
 
 ```
-GOAL: Bobot Zonasi MCE 
-├── K1 Kesesuaian Lahan ........ Kesesuaian Kakao, Kesesuaian Padi
-├── K2 Daya Dukung Lingkungan .. Daya Dukung Lahan, Daya Dukung Air, Kinerja Jasa Ekosistem
-├── K3 Risiko Iklim & Bencana .. Risiko Banjir/Longsor, Risiko Kekeringan, Risiko Hidrometeorologi
-├── K4 Nilai Konservasi ........ Kawasan ABKT, Area Preservasi, Fungsi Hidrologi
-└── K5 Faktor Sosial-Ekonomi ... Permukiman, Infrastruktur, Diversifikasi Komoditas, Aktivitas Ekonomi
+┌──────────────┐     /api/ proxy    ┌──────────────┐     psql     ┌────────────┐
+│  frontend    │ ─────────────────▶ │   backend    │ ───────────▶ │     db     │
+│ nginx +      │                    │ Django + DRF │              │ PostgreSQL │
+│ Tailwind UI  │ ◀───────────────── │ kobo_mce AHP │ ◀─────────── │            │
+└──────────────┘                    └──────────────┘              └────────────┘
+   :8080                                :8000 (internal)              :5432 (internal)
 ```
 
-Total pairwise per ahli: **26** (10 antar konstruk + 1+3+3+3+6 antar indikator).
+## Menjalankan
 
-## Alur data
-
-```
-Kobo submission (JSON)
-   │  parser.parse_kobo_submission()
-   ▼
-ExpertResponse + PairwiseValue  (models.py)
-   │  parser.build_matrices_for_response()
-   ▼
-6 matriks pairwise per ahli  (numpy)
-   │  weighting/ahp.py  → priority vector + CR per matriks
-   │  weighting/aggregate.py → AIJ geometric-mean grup
-   ▼
-services/mce_pipeline.run_pipeline()
-   │  → bobot global gabungan + per-tipologi
-   ▼
-export_weights_table() → CSV/JSON siap overlay MCE-GIS
-ai_layer.py → validasi anomali, saran perbaikan, narasi (opsional)
+```bash
+cp .env.example .env        # sesuaikan password & secret
+docker compose up --build
 ```
 
-## File
+Lalu buka:
+- **http://localhost:8080** — antarmuka penilaian ahli (26 perbandingan pairwise)
+- **http://localhost:8080/hasil.html** — dashboard hasil agregat
+- **http://localhost:8080/admin/** — Django admin (audit data; buat superuser dulu)
 
-| File | Isi |
-|---|---|
-| `weighting/ahp.py` | Inti AHP: build matriks, eigenvector, Consistency Ratio. Tanpa dependensi Django. |
-| `weighting/aggregate.py` | Agregasi grup AIJ (geometric-mean), bobot global 15 indikator. |
-| `models.py` | Model Django: `ExpertResponse`, `PairwiseValue`. |
-| `parser.py` | Parsing payload Kobo + rekonstruksi matriks + validasi CR per ahli. |
-| `services/mce_pipeline.py` | Orkestrasi: agregasi gabungan + per-tipologi, ekspor tabel, perbandingan tipologi. |
-| `ai_layer.py` | Deteksi anomali konsistensi, saran perbaikan deterministik, narasi via Claude API. |
+Membuat superuser admin:
+```bash
+docker compose exec backend python manage.py createsuperuser
+```
 
-## Konvensi nilai pairwise
+## Layanan
 
-Disimpan bertanda: `>0` = elemen-i lebih penting (skala Saaty 1..9),
-`<0` = elemen-j lebih penting (sistem konversi ke 1/skala). `1` = sama penting.
-Kolom Kobo: `{block}_{i+1}_{j+1}` mis. `konstruk_1_2`, `k5_3_4`.
+| Layanan | Basis | Peran |
+|---|---|---|
+| `db` | postgres:16-alpine | Penyimpanan respons ahli & nilai pairwise |
+| `backend` | python:3.12 + Django/DRF | API AHP: submit, validasi CR, agregasi, narasi AI |
+| `frontend` | nginx:1.27-alpine | UI statis Tailwind + proksi `/api/` ke backend |
 
-## Integrasi ke proyek Django
+## Endpoint API
 
-1. Salin `kobo_mce/` ke root proyek Django.
-2. Tambahkan `kobo_mce` ke `INSTALLED_APPS`.
-3. `python manage.py makemigrations kobo_mce && python manage.py migrate`.
-4. Buat endpoint webhook Kobo yang memanggil `parser.parse_kobo_submission()`
-   lalu menyimpan `ExpertResponse` + `PairwiseValue`, dan menandai `is_valid`
-   dengan `parser.validate_response()`.
-5. Jalankan `services/mce_pipeline.run_pipeline(ExpertResponse.objects.all())`.
+| Metode | Path | Fungsi |
+|---|---|---|
+| POST | `/api/submit/` | Simpan penilaian satu ahli (+ validasi CR otomatis) |
+| GET | `/api/experts/` | Daftar ahli & jumlah per tipologi |
+| GET | `/api/weights/` | Bobot global 15 indikator + perbandingan tipologi |
+| POST | `/api/validate/` | Cek CR satu set pairwise tanpa menyimpan (feedback real-time) |
+| POST | `/api/narrative/` | Narasi interpretasi via Claude API (opsional) |
 
-## Catatan metodologis
+## Alur pengguna
 
-- Geometric mean (bukan aritmetik) dipakai untuk AIJ agar sifat resiprokal
-  matriks terjaga — standar AHP grup (Forman & Peniwati, 1998).
-- Ambang konsistensi CR ≤ 0.10 (Saaty). Matriks 2×2 (K1) selalu konsisten.
-- Ahli dengan matriks tidak konsisten otomatis diekslusi dari agregasi.
-- Bobot global = bobot konstruk × bobot indikator lokal, dinormalisasi ke Σ=1.
+1. Ahli mengisi identitas + memilih tipologi (4 kategori).
+2. Menggeser penanda pada 26 perbandingan berpasangan (skala Saaty −9…+9).
+3. Layar tinjauan menampilkan CR tiap kelompok; ahli bisa menyesuaikan.
+4. Kirim → tersimpan di PostgreSQL, otomatis ditandai konsisten/tidak.
+5. Dashboard `hasil.html` menampilkan bobot global teragregasi.
 
+## Konvensi nilai pairwise (penting)
+
+Geseran slider dikonversi ke nilai bertanda yang dipahami backend:
+- Slider ke **kiri** → elemen kiri (i) lebih penting → nilai **positif** (skala Saaty)
+- Slider ke **kanan** → elemen kanan (j) lebih penting → nilai **negatif** (→ 1/skala)
+- Tengah → 1 (sama penting)
+
+Konvensi ini sudah diverifikasi konsisten ujung-ke-ujung dengan `signed_to_ratio()`
+di `kobo_mce/weighting/ahp.py`.
+
+## Lapisan AI (opsional)
+
+Isi `ANTHROPIC_API_KEY` di `.env` untuk mengaktifkan endpoint `/api/narrative/`.
+Bila kosong, endpoint mengembalikan 503 dan fitur narasi nonaktif — bagian
+perhitungan bobot tetap berjalan penuh tanpa API key (bobot bersifat deterministik;
+AI hanya untuk interpretasi naratif, tidak pernah mengubah angka).
+
+## Produksi
+
+- Set `DJANGO_DEBUG=0` (default) → backend memakai gunicorn 3 worker.
+- Ganti `DJANGO_SECRET_KEY` dan `POSTGRES_PASSWORD` dengan nilai acak.
+- Frontend dan API satu origin (via proksi nginx), jadi tidak ada masalah CORS.
+- Untuk pengembangan lokal cepat: set `DJANGO_DEBUG=1` → runserver dengan auto-reload.
+
+## Struktur direktori
+
+```
+stack/
+├── docker-compose.yml
+├── .env.example
+├── backend/
+│   ├── Dockerfile  ·  entrypoint.sh  ·  requirements.txt  ·  manage.py
+│   ├── ahp_mce/            # proyek Django (settings, urls, wsgi)
+│   └── kobo_mce/           # app AHP
+│       ├── weighting/      # ahp.py, aggregate.py  (inti deterministik)
+│       ├── services/       # mce_pipeline.py
+│       ├── models.py  ·  parser.py  ·  serializers.py  ·  views.py
+│       ├── api_urls.py  ·  admin.py  ·  ai_layer.py
+│       └── migrations/
+└── frontend/
+    ├── Dockerfile
+    ├── nginx/default.conf
+    └── static/
+        ├── index.html      # form penilaian pairwise
+        ├── hasil.html      # dashboard hasil agregat
+        ├── config.js       # struktur hierarki (cermin backend)
+        └── app.js          # logika interaksi + validasi live
+```
