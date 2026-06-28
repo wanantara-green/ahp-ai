@@ -73,5 +73,4 @@ Kolom Kobo: `{block}_{i+1}_{j+1}` mis. `konstruk_1_2`, `k5_3_4`.
 - Ambang konsistensi CR ≤ 0.10 (Saaty). Matriks 2×2 (K1) selalu konsisten.
 - Ahli dengan matriks tidak konsisten otomatis diekslusi dari agregasi.
 - Bobot global = bobot konstruk × bobot indikator lokal, dinormalisasi ke Σ=1.
->>>>>>> master
 
