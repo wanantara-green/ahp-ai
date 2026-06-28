@@ -1,0 +1,5207 @@
+[
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 32,
+  "fields": {
+    "expert_id": "AKA-01",
+    "nama": "anonim",
+    "instansi": "Universitas Hasanuddin - Fak. Pertanian",
+    "tipologi": "akademisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:44:50.284Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0261,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 34,
+  "fields": {
+    "expert_id": "AKA-02",
+    "nama": "anonim",
+    "instansi": "Universitas Hasanuddin - Ilmu Tanah",
+    "tipologi": "akademisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:45:13.425Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0131,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 36,
+  "fields": {
+    "expert_id": "AKA-03",
+    "nama": "anonim",
+    "instansi": "Universitas Hasanuddin - Kehutanan",
+    "tipologi": "akademisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:45:35.736Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0006,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0356,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 38,
+  "fields": {
+    "expert_id": "AKA-04",
+    "nama": "anonim",
+    "instansi": "Universitas Cokroaminoto Palopo",
+    "tipologi": "akademisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:45:54.738Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0332,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0229,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 40,
+  "fields": {
+    "expert_id": "PEM-05",
+    "nama": "anonim",
+    "instansi": "Bappelitbangda Kab. Luwu",
+    "tipologi": "pemerintah",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:46:17.089Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0131,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 42,
+  "fields": {
+    "expert_id": "PEM-06",
+    "nama": "anonim",
+    "instansi": "Dinas Pertanian Kab. Luwu",
+    "tipologi": "pemerintah",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:46:39.393Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0332,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0076,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0261,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 44,
+  "fields": {
+    "expert_id": "PEM-07",
+    "nama": "anonim",
+    "instansi": "Dinas Lingkungan Hidup Kab. Luwu",
+    "tipologi": "pemerintah",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:46:58.392Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0032,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0115,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0683,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 45,
+  "fields": {
+    "expert_id": "PEM-08",
+    "nama": "anonim",
+    "instansi": "Dinas PUPR Kab. Luwu",
+    "tipologi": "pemerintah",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:47:20.702Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0131,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 46,
+  "fields": {
+    "expert_id": "PEM-09",
+    "nama": "anonim",
+    "instansi": "BPDAS Saddang",
+    "tipologi": "pemerintah",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:47:42.990Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0038,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0517,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 47,
+  "fields": {
+    "expert_id": "PRA-10",
+    "nama": "anonim",
+    "instansi": "Penyuluh Pertanian BPP Belopa",
+    "tipologi": "praktisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:48:01.981Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0079,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0251,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.027,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0592,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 48,
+  "fields": {
+    "expert_id": "PRA-11",
+    "nama": "anonim",
+    "instansi": "Penyuluh Kehutanan KPH Latimojong",
+    "tipologi": "praktisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:48:24.314Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.1874,
+        "consistent": false
+      },
+      "k4": {
+        "CR": 0.081,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0356,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 49,
+  "fields": {
+    "expert_id": "PRA-12",
+    "nama": "anonim",
+    "instansi": "Fasilitator FOLUR Kab. Luwu",
+    "tipologi": "praktisi",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:48:43.292Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0634,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0152,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0229,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 50,
+  "fields": {
+    "expert_id": "MAS-13",
+    "nama": "anonim",
+    "instansi": "Ketua Kelompok Tani Bajo",
+    "tipologi": "masyarakat",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:49:05.617Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0048,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.017,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0304,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 51,
+  "fields": {
+    "expert_id": "MAS-14",
+    "nama": "anonim",
+    "instansi": "Tokoh Adat Suli",
+    "tipologi": "masyarakat",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:49:27.928Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0079,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0462,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0032,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0038,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0511,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.expertresponse",
+  "pk": 52,
+  "fields": {
+    "expert_id": "MAS-15",
+    "nama": "anonim",
+    "instansi": "Ketua Gapoktan Latimojong",
+    "tipologi": "masyarakat",
+    "kobo_submission_id": "",
+    "submitted_at": "2026-06-28T15:49:46.920Z",
+    "is_valid": true,
+    "catatan_validasi": {
+      "k1": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k2": {
+        "CR": 0.0158,
+        "consistent": true
+      },
+      "k3": {
+        "CR": 0.0,
+        "consistent": true
+      },
+      "k4": {
+        "CR": 0.0332,
+        "consistent": true
+      },
+      "k5": {
+        "CR": 0.0061,
+        "consistent": true
+      },
+      "konstruk": {
+        "CR": 0.0491,
+        "consistent": true
+      }
+    }
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 784,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 785,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 786,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 787,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 788,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 789,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 790,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 791,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 792,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 793,
+  "fields": {
+    "response": 32,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 794,
+  "fields": {
+    "response": 32,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 795,
+  "fields": {
+    "response": 32,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 796,
+  "fields": {
+    "response": 32,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 797,
+  "fields": {
+    "response": 32,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 798,
+  "fields": {
+    "response": 32,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 799,
+  "fields": {
+    "response": 32,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 800,
+  "fields": {
+    "response": 32,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 801,
+  "fields": {
+    "response": 32,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 802,
+  "fields": {
+    "response": 32,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 803,
+  "fields": {
+    "response": 32,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 804,
+  "fields": {
+    "response": 32,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 805,
+  "fields": {
+    "response": 32,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 806,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 807,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 808,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 809,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 810,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 811,
+  "fields": {
+    "response": 32,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 840,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 841,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 842,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 843,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 844,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 845,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 846,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 847,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 848,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 849,
+  "fields": {
+    "response": 34,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 850,
+  "fields": {
+    "response": 34,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 851,
+  "fields": {
+    "response": 34,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 852,
+  "fields": {
+    "response": 34,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 853,
+  "fields": {
+    "response": 34,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 854,
+  "fields": {
+    "response": 34,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 855,
+  "fields": {
+    "response": 34,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 856,
+  "fields": {
+    "response": 34,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 857,
+  "fields": {
+    "response": 34,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 858,
+  "fields": {
+    "response": 34,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 859,
+  "fields": {
+    "response": 34,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 860,
+  "fields": {
+    "response": 34,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -6.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 861,
+  "fields": {
+    "response": 34,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 862,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 863,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 864,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 865,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 866,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 867,
+  "fields": {
+    "response": 34,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 896,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 897,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 898,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 899,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 900,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 901,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 902,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 903,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 904,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 905,
+  "fields": {
+    "response": 36,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 906,
+  "fields": {
+    "response": 36,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 907,
+  "fields": {
+    "response": 36,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 908,
+  "fields": {
+    "response": 36,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 909,
+  "fields": {
+    "response": 36,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 910,
+  "fields": {
+    "response": 36,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 911,
+  "fields": {
+    "response": 36,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 912,
+  "fields": {
+    "response": 36,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 913,
+  "fields": {
+    "response": 36,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 914,
+  "fields": {
+    "response": 36,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 915,
+  "fields": {
+    "response": 36,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 916,
+  "fields": {
+    "response": 36,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -6.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 917,
+  "fields": {
+    "response": 36,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 918,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 919,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 920,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 921,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 922,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 923,
+  "fields": {
+    "response": 36,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 952,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 953,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 954,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 955,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 956,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 957,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 958,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 959,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 960,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 961,
+  "fields": {
+    "response": 38,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 962,
+  "fields": {
+    "response": 38,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 963,
+  "fields": {
+    "response": 38,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 964,
+  "fields": {
+    "response": 38,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 965,
+  "fields": {
+    "response": 38,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 966,
+  "fields": {
+    "response": 38,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 967,
+  "fields": {
+    "response": 38,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 968,
+  "fields": {
+    "response": 38,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 969,
+  "fields": {
+    "response": 38,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 970,
+  "fields": {
+    "response": 38,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 971,
+  "fields": {
+    "response": 38,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 972,
+  "fields": {
+    "response": 38,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 973,
+  "fields": {
+    "response": 38,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 974,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 975,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 976,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 977,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 978,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 979,
+  "fields": {
+    "response": 38,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1008,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1009,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1010,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1011,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1012,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1013,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1014,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1015,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1016,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1017,
+  "fields": {
+    "response": 40,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1018,
+  "fields": {
+    "response": 40,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1019,
+  "fields": {
+    "response": 40,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1020,
+  "fields": {
+    "response": 40,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1021,
+  "fields": {
+    "response": 40,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1022,
+  "fields": {
+    "response": 40,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1023,
+  "fields": {
+    "response": 40,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1024,
+  "fields": {
+    "response": 40,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1025,
+  "fields": {
+    "response": 40,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1026,
+  "fields": {
+    "response": 40,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1027,
+  "fields": {
+    "response": 40,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1028,
+  "fields": {
+    "response": 40,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1029,
+  "fields": {
+    "response": 40,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1030,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1031,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1032,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1033,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1034,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1035,
+  "fields": {
+    "response": 40,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1064,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1065,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1066,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1067,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1068,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1069,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1070,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1071,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1072,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1073,
+  "fields": {
+    "response": 42,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1074,
+  "fields": {
+    "response": 42,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1075,
+  "fields": {
+    "response": 42,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1076,
+  "fields": {
+    "response": 42,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1077,
+  "fields": {
+    "response": 42,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1078,
+  "fields": {
+    "response": 42,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1079,
+  "fields": {
+    "response": 42,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1080,
+  "fields": {
+    "response": 42,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1081,
+  "fields": {
+    "response": 42,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1082,
+  "fields": {
+    "response": 42,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1083,
+  "fields": {
+    "response": 42,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1084,
+  "fields": {
+    "response": 42,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1085,
+  "fields": {
+    "response": 42,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1086,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -9.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1087,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1088,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1089,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1090,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1091,
+  "fields": {
+    "response": 42,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1120,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1121,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1122,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1123,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1124,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1125,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1126,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1127,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1128,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1129,
+  "fields": {
+    "response": 44,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1130,
+  "fields": {
+    "response": 44,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1131,
+  "fields": {
+    "response": 44,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1132,
+  "fields": {
+    "response": 44,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1133,
+  "fields": {
+    "response": 44,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1134,
+  "fields": {
+    "response": 44,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1135,
+  "fields": {
+    "response": 44,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1136,
+  "fields": {
+    "response": 44,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1137,
+  "fields": {
+    "response": 44,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1138,
+  "fields": {
+    "response": 44,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1139,
+  "fields": {
+    "response": 44,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1140,
+  "fields": {
+    "response": 44,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1141,
+  "fields": {
+    "response": 44,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1142,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -9.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1143,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1144,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1145,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1146,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1147,
+  "fields": {
+    "response": 44,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1148,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1149,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1150,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1151,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1152,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1153,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1154,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1155,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1156,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1157,
+  "fields": {
+    "response": 45,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1158,
+  "fields": {
+    "response": 45,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1159,
+  "fields": {
+    "response": 45,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1160,
+  "fields": {
+    "response": 45,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1161,
+  "fields": {
+    "response": 45,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1162,
+  "fields": {
+    "response": 45,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1163,
+  "fields": {
+    "response": 45,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1164,
+  "fields": {
+    "response": 45,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1165,
+  "fields": {
+    "response": 45,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1166,
+  "fields": {
+    "response": 45,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1167,
+  "fields": {
+    "response": 45,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1168,
+  "fields": {
+    "response": 45,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -6.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1169,
+  "fields": {
+    "response": 45,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1170,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1171,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1172,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1173,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1174,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1175,
+  "fields": {
+    "response": 45,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1176,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1177,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1178,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1179,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1180,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1181,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1182,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1183,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1184,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1185,
+  "fields": {
+    "response": 46,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1186,
+  "fields": {
+    "response": 46,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1187,
+  "fields": {
+    "response": 46,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1188,
+  "fields": {
+    "response": 46,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1189,
+  "fields": {
+    "response": 46,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1190,
+  "fields": {
+    "response": 46,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1191,
+  "fields": {
+    "response": 46,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1192,
+  "fields": {
+    "response": 46,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1193,
+  "fields": {
+    "response": 46,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1194,
+  "fields": {
+    "response": 46,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1195,
+  "fields": {
+    "response": 46,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1196,
+  "fields": {
+    "response": 46,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1197,
+  "fields": {
+    "response": 46,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1198,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -9.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1199,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1200,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1201,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1202,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1203,
+  "fields": {
+    "response": 46,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1204,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1205,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1206,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1207,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1208,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1209,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1210,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1211,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1212,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1213,
+  "fields": {
+    "response": 47,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1214,
+  "fields": {
+    "response": 47,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1215,
+  "fields": {
+    "response": 47,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1216,
+  "fields": {
+    "response": 47,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1217,
+  "fields": {
+    "response": 47,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1218,
+  "fields": {
+    "response": 47,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1219,
+  "fields": {
+    "response": 47,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1220,
+  "fields": {
+    "response": 47,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1221,
+  "fields": {
+    "response": 47,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1222,
+  "fields": {
+    "response": 47,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1223,
+  "fields": {
+    "response": 47,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1224,
+  "fields": {
+    "response": 47,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1225,
+  "fields": {
+    "response": 47,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1226,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -9.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1227,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1228,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1229,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1230,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1231,
+  "fields": {
+    "response": 47,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1232,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1233,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1234,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1235,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1236,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1237,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1238,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1239,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1240,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1241,
+  "fields": {
+    "response": 48,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1242,
+  "fields": {
+    "response": 48,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1243,
+  "fields": {
+    "response": 48,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1244,
+  "fields": {
+    "response": 48,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1245,
+  "fields": {
+    "response": 48,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1246,
+  "fields": {
+    "response": 48,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1247,
+  "fields": {
+    "response": 48,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1248,
+  "fields": {
+    "response": 48,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1249,
+  "fields": {
+    "response": 48,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1250,
+  "fields": {
+    "response": 48,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1251,
+  "fields": {
+    "response": 48,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1252,
+  "fields": {
+    "response": 48,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1253,
+  "fields": {
+    "response": 48,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1254,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1255,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1256,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1257,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1258,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1259,
+  "fields": {
+    "response": 48,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1260,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1261,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1262,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1263,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1264,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1265,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1266,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1267,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1268,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1269,
+  "fields": {
+    "response": 49,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1270,
+  "fields": {
+    "response": 49,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1271,
+  "fields": {
+    "response": 49,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1272,
+  "fields": {
+    "response": 49,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1273,
+  "fields": {
+    "response": 49,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1274,
+  "fields": {
+    "response": 49,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1275,
+  "fields": {
+    "response": 49,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1276,
+  "fields": {
+    "response": 49,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1277,
+  "fields": {
+    "response": 49,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1278,
+  "fields": {
+    "response": 49,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1279,
+  "fields": {
+    "response": 49,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1280,
+  "fields": {
+    "response": 49,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1281,
+  "fields": {
+    "response": 49,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1282,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -7.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1283,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1284,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1285,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1286,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1287,
+  "fields": {
+    "response": 49,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1288,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1289,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1290,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1291,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1292,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1293,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1294,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1295,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1296,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1297,
+  "fields": {
+    "response": 50,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1298,
+  "fields": {
+    "response": 50,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1299,
+  "fields": {
+    "response": 50,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1300,
+  "fields": {
+    "response": 50,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1301,
+  "fields": {
+    "response": 50,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1302,
+  "fields": {
+    "response": 50,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1303,
+  "fields": {
+    "response": 50,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1304,
+  "fields": {
+    "response": 50,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1305,
+  "fields": {
+    "response": 50,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1306,
+  "fields": {
+    "response": 50,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1307,
+  "fields": {
+    "response": 50,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1308,
+  "fields": {
+    "response": 50,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1309,
+  "fields": {
+    "response": 50,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1310,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1311,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1312,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1313,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1314,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1315,
+  "fields": {
+    "response": 50,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1316,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1317,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1318,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1319,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1320,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1321,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1322,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1323,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1324,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1325,
+  "fields": {
+    "response": 51,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1326,
+  "fields": {
+    "response": 51,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1327,
+  "fields": {
+    "response": 51,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1328,
+  "fields": {
+    "response": 51,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1329,
+  "fields": {
+    "response": 51,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1330,
+  "fields": {
+    "response": 51,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1331,
+  "fields": {
+    "response": 51,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1332,
+  "fields": {
+    "response": 51,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1333,
+  "fields": {
+    "response": 51,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1334,
+  "fields": {
+    "response": 51,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1335,
+  "fields": {
+    "response": 51,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1336,
+  "fields": {
+    "response": 51,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1337,
+  "fields": {
+    "response": 51,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1338,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1339,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1340,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1341,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1342,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1343,
+  "fields": {
+    "response": 51,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1344,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 0,
+    "j": 1,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1345,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 0,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1346,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 0,
+    "j": 3,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1347,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 0,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1348,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1349,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 1,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1350,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 1,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1351,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 2,
+    "j": 3,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1352,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 2,
+    "j": 4,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1353,
+  "fields": {
+    "response": 52,
+    "block": "konstruk",
+    "i": 3,
+    "j": 4,
+    "value": -2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1354,
+  "fields": {
+    "response": 52,
+    "block": "k1",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1355,
+  "fields": {
+    "response": 52,
+    "block": "k1",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1356,
+  "fields": {
+    "response": 52,
+    "block": "k1",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1357,
+  "fields": {
+    "response": 52,
+    "block": "k2",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1358,
+  "fields": {
+    "response": 52,
+    "block": "k2",
+    "i": 0,
+    "j": 2,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1359,
+  "fields": {
+    "response": 52,
+    "block": "k2",
+    "i": 1,
+    "j": 2,
+    "value": 2.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1360,
+  "fields": {
+    "response": 52,
+    "block": "k3",
+    "i": 0,
+    "j": 1,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1361,
+  "fields": {
+    "response": 52,
+    "block": "k3",
+    "i": 0,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1362,
+  "fields": {
+    "response": 52,
+    "block": "k3",
+    "i": 1,
+    "j": 2,
+    "value": 1.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1363,
+  "fields": {
+    "response": 52,
+    "block": "k4",
+    "i": 0,
+    "j": 1,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1364,
+  "fields": {
+    "response": 52,
+    "block": "k4",
+    "i": 0,
+    "j": 2,
+    "value": -5.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1365,
+  "fields": {
+    "response": 52,
+    "block": "k4",
+    "i": 1,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1366,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 0,
+    "j": 1,
+    "value": -8.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1367,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 0,
+    "j": 2,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1368,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 0,
+    "j": 3,
+    "value": -3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1369,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 1,
+    "j": 2,
+    "value": 4.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1370,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 1,
+    "j": 3,
+    "value": 3.0
+  }
+},
+{
+  "model": "kobo_mce.pairwisevalue",
+  "pk": 1371,
+  "fields": {
+    "response": 52,
+    "block": "k5",
+    "i": 2,
+    "j": 3,
+    "value": 1.0
+  }
+}
+]
