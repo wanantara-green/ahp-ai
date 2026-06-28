@@ -1,5 +1,5 @@
 =======
-# kobo_mce — Modul Pembobotan AHP untuk Zonasi MCE FOLUR Luwu
+# kobo_mce — Modul Pembobotan AHP untuk Zonasi MCE 
 
 Pipeline AHP (Analytic Hierarchy Process) untuk pembobotan multi-indikator pada
 analisis MCE-GIS, dirancang untuk panel ahli kecil (n≈15) dengan 5 konstruk dan
@@ -9,7 +9,7 @@ membantu validasi dan narasi, tidak pernah mengubah angka bobot.
 ## Struktur hierarki
 
 ```
-GOAL: Bobot Zonasi MCE FOLUR Luwu
+GOAL: Bobot Zonasi MCE 
 ├── K1 Kesesuaian Lahan ........ Kesesuaian Kakao, Kesesuaian Padi
 ├── K2 Daya Dukung Lingkungan .. Daya Dukung Lahan, Daya Dukung Air, Kinerja Jasa Ekosistem
 ├── K3 Risiko Iklim & Bencana .. Risiko Banjir/Longsor, Risiko Kekeringan, Risiko Hidrometeorologi
